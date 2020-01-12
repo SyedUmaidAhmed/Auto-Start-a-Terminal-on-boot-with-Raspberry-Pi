@@ -1,4 +1,4 @@
-# Auto-Start-a-Terminal-on-boot-with-Raspberry-Pi
+# Auto-Start-a-Terminal-with-Script-on-boot-with-Raspberry-Pi
 This process will help in starting a terminal on boot with Raspberry Pi Microcomputers
 
 
@@ -23,7 +23,7 @@ So, your file should contain
 point-rpi
 And then add your necessary startup items at the bottom like
 
-                        @lxterminal
+                          @lxterminal
 
 Press Ctrl + X and then Yes. This will save your file. Try sudo reboot on your terminal. On startup you will automatically find a terminal on the screen.
 
@@ -31,5 +31,5 @@ If you want your GUI based python scripts to run in automode when the terminal s
 
 Link to follow ro execute script of python in auto-mode with terminal:
 
-      https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
+            https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
 
