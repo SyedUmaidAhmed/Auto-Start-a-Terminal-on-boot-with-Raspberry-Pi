@@ -32,7 +32,7 @@ And then add your necessary startup items at the bottom like
 
 Press Ctrl + X and then Yes. This will save your file. Try sudo reboot on your terminal. On startup you will automatically find a terminal on the screen.
 
-If you want your GUI based python scripts to run in automode when the terminal started please check this link and follow the guide of the answer which is voted for 199 (The nanoscript thing ... etc)
+If you want your GUI based python scripts to run in automode when the terminal started please check this link and follow the guide of the answer which is voted for 199 (The superscript thing ... etc)
 
 Link to follow ro execute script of python in auto-mode with terminal:
 
