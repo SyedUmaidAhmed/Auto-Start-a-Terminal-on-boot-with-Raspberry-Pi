@@ -17,10 +17,15 @@ so you should copy everything from global file to your newly created file. By th
 
 So, your file should contain
 
-@lxpanel --profile LXDE-pi
-@pcmanfm --desktop --profile LXDE-pi
-@xscreensaver -no-splash
-point-rpi
+              @lxpanel --profile LXDE-pi
+               
+              @pcmanfm --desktop --profile LXDE-pi
+              
+              @xscreensaver -no-splash
+              
+              @point-rpi
+
+
 And then add your necessary startup items at the bottom like
 
                           @lxterminal
