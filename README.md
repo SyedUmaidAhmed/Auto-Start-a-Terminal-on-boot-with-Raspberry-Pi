@@ -1,6 +1,8 @@
 # Auto-Start-a-Terminal-with-Script-on-boot-with-Raspberry-Pi
 This process will help in starting a terminal on boot with Raspberry Pi Microcomputers
 
+*Location of autostart is changed in new versions: /etc/xdg/lxsession/LXDE-pi/autostart
+
 
 When you edit or create autostart file in your user space like
 
